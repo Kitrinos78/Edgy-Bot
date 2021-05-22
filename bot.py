@@ -2,12 +2,7 @@ import tweepy
 import random
 import time
 from quoteList import edgeworthQuotes
-
-consumer_key = 'CONSUMER KEY'
-consumer_secret = 'CONSUMER SECRET'
-
-key = 'KEY'
-secret = 'SECRET'
+from auth import *
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(key, secret)
