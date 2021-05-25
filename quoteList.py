@@ -98,4 +98,5 @@ edgeworthQuotes = [
     "Essentially... he would acquire unchecked authority over all investigations!",
     "...",
     "[to Phoenix] Thanks to you, I am saddled with unnecessary... feelings.",
+    "Heh heh"
 ]
